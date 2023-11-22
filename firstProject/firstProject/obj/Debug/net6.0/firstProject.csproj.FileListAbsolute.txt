@@ -1,0 +1,14 @@
+D:\c# projects\firstProject\firstProject\bin\Debug\net6.0\firstProject.exe
+D:\c# projects\firstProject\firstProject\bin\Debug\net6.0\firstProject.deps.json
+D:\c# projects\firstProject\firstProject\bin\Debug\net6.0\firstProject.runtimeconfig.json
+D:\c# projects\firstProject\firstProject\bin\Debug\net6.0\firstProject.dll
+D:\c# projects\firstProject\firstProject\bin\Debug\net6.0\firstProject.pdb
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.AssemblyInfoInputs.cache
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.AssemblyInfo.cs
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.csproj.CoreCompileInputs.cache
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.dll
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\refint\firstProject.dll
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.pdb
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\firstProject.genruntimeconfig.cache
+D:\c# projects\firstProject\firstProject\obj\Debug\net6.0\ref\firstProject.dll
